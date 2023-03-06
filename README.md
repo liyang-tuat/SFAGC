@@ -1,5 +1,6 @@
-# SFAGC
+# Attention-based Graph Convolution Fusing Latent Structures and Multiple Features for Graph Neural Networks
 
+SFAGC:  
 <img width="986" alt="截屏2023-03-06 12 16 00" src="https://user-images.githubusercontent.com/125842531/223013957-8133a6f2-016f-40d2-89f0-e7f91d5328c8.png">
 
 For train:
